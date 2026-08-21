@@ -9,14 +9,14 @@ The project follows a complete machine learning pipeline from data cleaning and 
 The dataset contains 17,379 records and 17 features, including information about date, hour, season, weather, temperature, humidity, windspeed, casual users, registered users, and total rental count.
 
 **Technologies Used**:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+XGBoost,
+Jupyter Notebook.
 
 **Project Workflow**:
 Data Cleaning and Preprocessing

@@ -1,13 +1,13 @@
 **Bike-Sharing Rental Demand Prediction**
-**Project overview**
+**Project overview**:
 This project focuses on analyzing bike-sharing rental data and predicting hourly rental demand using data science and machine learning techniques.
 
 The project follows a complete machine learning pipeline from data cleaning and exploratory data analysis to feature engineering, model building, hyperparameter tuning, evaluation, diagnostics, and business recommendations.
 
-**Dataset**
+**Dataset**:
 The dataset contains 17,379 records and 17 features, including information about date, hour, season, weather, temperature, humidity, windspeed, casual users, registered users, and total rental count.
 
-**Technologies Used**
+**Technologies Used**:
 Python
 Pandas
 NumPy
